@@ -7,7 +7,8 @@ import {
   UserCheck, 
   ChevronDown, 
   MessageCircle, 
-  Star, 
+
+  tar, 
   HelpCircle, 
   Instagram, 
   Facebook, 
@@ -23,11 +24,11 @@ const WHATSAPP_PHONE = "573042635285";
 const SNEAKERS_DATA = [
   {
     id: 1,
-    name: "Retro High OG 'Obsidian'",
-    price: "$260.000",
-    rawPrice: 260000,
+    name: "AIR JORDAN RETRO 1 LOW",
+    price: "$160.000",
+    rawPrice: 160000,
     tag: "Exclusivo",
-    image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=600&auto=format&fit=crop"
+    image: "src/images/AIR JORDAN RETRO 1 LOW.jpeg"
   },
   {
     id: 2,
